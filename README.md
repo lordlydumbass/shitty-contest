@@ -1,6 +1,10 @@
 # shitty contest
 
-yeah
+the shitty contest is a joke thread on the furnace tracker discord server made after describing a dream i had about the blank-contest being renamed to shitty-contest.
+heres all the submissions to the "contest".
+
+part 1 contains all the modules included in this compilation: (https://www.youtube.com/watch?v=CLaBeuHZ6bU)
+part 2 contains all the modules submitted afterwards.
 
 ## the numbers
 
