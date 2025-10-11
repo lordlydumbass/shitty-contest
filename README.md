@@ -7,6 +7,8 @@ part 1 contains all the modules included in this compilation: https://www.youtub
 
 part 2 contains all the modules submitted afterwards.
 
+furnace: https://github.com/tildearrow/furnace
+
 ## the numbers
 
 58 part 1 modules
