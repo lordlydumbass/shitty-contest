@@ -1,0 +1,73 @@
+user - submissions
+
+halberd - 18
+Swirly - 11
+tildearrow - 9
+Eknous - 4
+masicbemester - 4
+Pacorex - 4
+Kagamiin - 3
+Molkirill - 3
+boo - 1
+Zaxinoth - 1
+
+module filename - user
+
+actually-empty - Swirly
+allofthelights - masicbemester
+asdfasdgsdvsdagrg - Swirly
+asterix - Swirly
+attraction - tildearrow
+classic_swan - tildearrow
+crank that soulja boy - halberd
+creative exercise - halberd
+daisy bell - Kagamiin
+dasheet - Eknous
+demo - Swirly
+Dodging Danmaku on Hard (YM2612 + SN76489) - Molkirill
+dsgasf - Swirly
+dsi shop snes - halberd
+ed asche - masicbemester
+empty_real - tildearrow
+emputado - halberd
+Eulogy of a Lost Mind - masicbemester
+FISH - Zaxinoth
+Game Boy ZX Loading screen - masicbemester
+gimmick - Swirly
+gurt yo - Pacorex
+hapy_houre - Swirly
+hgrunt - tildearrow
+him4 - tildearrow
+him8 - tildearrow
+hongosbrryam - boo
+hype - halberd
+imagine - halberd
+jennifer's body 0.000000123456789 percent accurate - Pacorex
+mule - Swirly
+nayu_from_memory - tildearrow
+nil_thetruth.fur - tildearrow
+og_thing - Swirly (may be excluded)
+penis - Swirly
+pootis_time_2.fur - tildearrow
+Run or be Killed (YM2612 + SN76489) - Molkirill
+sega genesis phone - halberd
+semi accurate - halberd
+shart - Eknous
+shat - Eknous
+shit - halberd
+shortloop-opll - Kagamiin
+soulj - halberd
+sound blaster 2a03 - halberd
+super super nintendo entertainment system hit em - halberd
+The Genesis Maiden (YM2612 + SN76489) - Molkirill
+The NES (DPCM Eek!) - halberd
+The NES and Expansion Chips (FamitrackEek!) - halberd
+The SNES (Gaussian Eek!) - halberd
+the worst esfm module ever - Kagamiin (does not open on current furnace versions)
+theshit - Eknous
+Time Fart - Pacorex
+timesig - Swirly
+topshit - Pacorex
+win95 opll - halberd
+worst map - halberd
+zawg! - halberd
