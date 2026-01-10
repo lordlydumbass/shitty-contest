@@ -13,6 +13,6 @@ furnace: https://github.com/tildearrow/furnace
 
 58 part 1 modules
 
-486 part 2 modules
+487 part 2 modules
 
-544 modules total
+545 modules total
